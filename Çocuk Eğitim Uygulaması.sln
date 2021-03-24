@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çocuk Eğitim Uygulaması", "Çocuk Eğitim Uygulaması.csproj", "{1636310D-6288-4769-9552-008CAFB117B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eğitici Oyunlar", "..\Eğitici Oyunlar\Eğitici Oyunlar.vdproj", "{1E9024CE-9EC8-41E5-9D13-6857379EAF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1636310D-6288-4769-9552-008CAFB117B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1636310D-6288-4769-9552-008CAFB117B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1636310D-6288-4769-9552-008CAFB117B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1636310D-6288-4769-9552-008CAFB117B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9024CE-9EC8-41E5-9D13-6857379EAF14}.Debug|Any CPU.ActiveCfg = Debug
+		{1E9024CE-9EC8-41E5-9D13-6857379EAF14}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F5EF32-D7C1-482E-85F8-8D3C102C0CA1}
+	EndGlobalSection
+EndGlobal

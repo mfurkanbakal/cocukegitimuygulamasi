@@ -1,0 +1,18 @@
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe.config
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csprojAssemblyReference.cache
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form1.resources
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Properties.Resources.resources
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.GenerateResource.cache
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.exe
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.pdb
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form2.resources
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form4.resources
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form5.resources
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mfb44\Desktop\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.ResolveComReference.cache
